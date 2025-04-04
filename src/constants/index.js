@@ -8,6 +8,8 @@ import {
   linkedin,
   nextjs,
   nodejs,
+  express,
+  mongodb,
   react,
   redux,
   sass,
@@ -48,6 +50,16 @@ export const skills = [
     imageUrl: nodejs,
     name: "Node.js",
     type: "Backend",
+  },
+  {
+    imageUrl: express,
+    name: "Express.js",
+    type: "Backend",
+  },
+  {
+    imageUrl: mongodb,
+    name: "MongoDB",
+    type: "Database",
   },
   {
     imageUrl: react,
