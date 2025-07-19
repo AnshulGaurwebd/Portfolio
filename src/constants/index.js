@@ -120,7 +120,7 @@ export const socialLinks = [
   {
     name: "LinkedIn",
     iconUrl: linkedin,
-    link: "www.linkedin.com/in/anshul-gaur-22b754249",
+    link: "https://www.linkedin.com/in/anshul-gaur-22b754249/",
   },
 ];
 
