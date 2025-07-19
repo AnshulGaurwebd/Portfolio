@@ -113,7 +113,7 @@ export const projects = [
     name: "Blog Website",
     description:
       "Developed a web application for blogging and travel to influence or to give advices what to visit and when to visit.",
-    link: "https://a-blog-site.netlify.app",
+    link: "https://blog-website-scrk.onrender.com/",
   },
   {
     iconUrl: summiz,
