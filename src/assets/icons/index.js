@@ -13,11 +13,11 @@ import sass from "./sass.svg";
 import tailwindcss from "./tailwindcss.svg";
 import typescript from "./typescript.svg";
 import linkedin from "./linkedin.svg";
-
+import selenium from "./selenium.svg";
+import postman from "./postman.svg";
+import bootstrap from "./bootstrap.svg";
 import car from "./car.svg";
-
 import summiz from "./summiz.svg";
-
 import arrow from "./arrow.svg";
 import contact from "./contact.svg";
 import soundon from "./soundon.png";
@@ -44,4 +44,7 @@ export {
   contact,
   soundon,
   soundoff,
+  selenium,
+  postman,
+  bootstrap,
 };
