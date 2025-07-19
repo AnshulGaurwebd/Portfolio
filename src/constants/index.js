@@ -16,6 +16,9 @@ import {
   summiz,
   tailwindcss,
   typescript,
+  selenium,
+  postman,
+  bootstrap,
 } from "../assets/icons";
 
 export const skills = [
@@ -84,6 +87,21 @@ export const skills = [
   {
     imageUrl: typescript,
     name: "TypeScript",
+    type: "Frontend",
+  },
+  {
+    imageUrl: selenium,
+    name: "Selenium",
+    type: "Testing",
+  },
+  {
+    imageUrl: postman,
+    name: "Postman",
+    type: "Testing",
+  },
+  {
+    imageUrl: bootstrap,
+    name: "Bootstrap",
     type: "Frontend",
   },
 ];
